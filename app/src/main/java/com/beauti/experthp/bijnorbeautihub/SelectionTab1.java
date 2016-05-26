@@ -57,7 +57,7 @@ Log.d("value of pointid", "is" + id_Point);
         Log.d("Beauty Points","Count is:  "+dataBaseHelper1.getALLPoint().size());
         Log.d("Beauty Points", "Count is:  " + dataBaseHelper1.getALLServices().size());
         Log.d("Beauty Points","Count is:  "+dataBaseHelper1.getSuService_Count());
-
+//delet rows
 /*
         dataBaseHelper1.delete_AllPoints();
         Log.d("Beauty Points","Count is:  "+dataBaseHelper1.getALLPoint().size());
